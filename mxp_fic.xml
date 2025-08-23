@@ -1,0 +1,19 @@
+<rss version="2.0">
+    <channel>
+        <title>MxP Fic Feed</title>
+        <link>https://archiveofourown.org/users/mindorzxperfect</link>
+        <description>MxP AO3 + FFN Feed</description>
+        <lastBuildDate>Sat, 23 Aug 2025 12:00:00 GMT</lastBuildDate>
+
+        <item>
+            <guid isPermaLink="false">mxpfic082325a</guid>
+            <pubDate>Sat, 23 Aug 2025 12:00:00 GMT</pubDate>
+            <title>MxP Fic Launch</title>
+            <link>https://archiveofourown.org/users/mindorzxperfect</link>
+            <description>
+                Creation of the fic RSS feed.
+            </description>
+            <category>MxP Fic</category>
+        </item>
+    </channel>
+</rss>
