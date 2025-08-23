@@ -5,6 +5,17 @@
 <description>Various MxP RSS Feeds</description>
 <lastBuildDate>Fri, 22 Aug 2025 21:30:00 GMT</lastBuildDate>
 <item>
+<guid isPermaLink="false">MXPRSS08222025b</guid>
+<pubDate>Fri, 22 Aug 2025 22:00:00 GMT</pubDate>
+<title>MxP RSS Feed Masterlist</title>
+<link>
+https://raw.githubusercontent.com/mindorzxperfect/MxP-RSS/refs/heads/main/rss
+</link>
+<description>MxP RSS Link Test.</description>
+<category>test</category>
+</item>
+<item>
+<item>
 <guid isPermaLink="false">MXPRSS08222025a</guid>
 <pubDate>Fri, 22 Aug 2025 21:40:00 GMT</pubDate>
 <title>MxP RSS Feed Masterlist</title>
