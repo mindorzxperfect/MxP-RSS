@@ -1,0 +1,19 @@
+<rss version="2.0">
+    <channel>
+        <title>Forgotten Forest</title>
+        <link>https://forgottenforest.nekoweb.org/</link>
+        <description>Forgotten Forest</description>
+        <lastBuildDate>Thu, 14 Aug 2025 09:00:00 GMT</lastBuildDate>
+
+        <item>
+            <guid isPermaLink="false">ffneko081425</guid>
+            <pubDate>Thu, 14 Aug 2025 09:00:00 GMT</pubDate>
+            <title>Forgotten Forest v0.2.0 [Amidatelion]</title>
+            <link>https://forgottenforest.nekoweb.org/changelog.txt</link>
+            <description>
+                V 0.2.1 [MASSIVELY OVERHAULED, LEGAL STATEMENT CHANGED, CHANGELOG FORMALLY ADDED] [MOBILE COMPATIBILITY ADDED FOR THE ENTIRE SITE] [NEW LEGAL STATEMENTS ATTACHED TO THE BOTTOM OF ALL PAGES] [CHANGELOG ACCESS SET TO THE BOTTOM OF SITE NEWS PAGE] [AFFILIATES SECTION ADDED UNDER ABOUT SECTION] [EMBLEMS GIVEN A NEW ANIMATION IN DESKTOP MODE]
+            </description>
+            <category>v0.2.X</category>
+        </item>
+    </channel>
+</rss>

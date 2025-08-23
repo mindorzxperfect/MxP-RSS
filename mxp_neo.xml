@@ -1,0 +1,26 @@
+<rss version="2.0">
+    <channel>
+        <title>MxP Neo</title>
+        <link>https://mindorzxperfect.neocities.org/</link>
+        <description>MindorZxPerfect on Neocities</description>
+        <lastBuildDate>Tue, 19 Aug 2025 14:40:00 GMT</lastBuildDate>
+
+        <item>
+            <guid isPermaLink="false">mxpneo081925a</guid>
+            <pubDate>Tue, 19 Aug 2025 14:40:00 GMT</pubDate>
+            <title>MxP Webgarden</title>
+            <link>https://mindorzxperfect.neocities.org/webgarden/webgarden.html</link>
+            <description> Webgarden page is up and running. </description>
+            <category>update</category>
+        </item>
+
+        <item>
+            <guid isPermaLink="false">mxpneo081725a</guid>
+            <pubDate>Sun, 17 Aug 2025 04:43:03 GMT</pubDate>
+            <title>MxP RSS</title>
+            <link>https://mindorzxperfect.neocities.org/</link>
+            <description> Just an rss test. </description>
+            <category>rss test</category>
+        </item>
+    </channel>
+</rss>
