@@ -1,16 +1,19 @@
 <rss version="2.0">
-<channel>
-<title>MxP Master RSS</title>
-<link>https://github.com/mindorzxperfect/MxP-RSS</link>
-<description>Master RSS List</description>
-<lastBuildDate>Sat, 23 Aug 2025 00:10:00 GMT</lastBuildDate>
-<item>
-<title>MxP mRSS Implemented</title>
-<link>https://github.com/mindorzxperfect/MxP-RSS</link>
-<description>The MxP mRSS (master RSS) file is being implemented. Any updates to the other RSS feeds (or their creation from now on) will be briefly announced here.</description>
-<category>MxP Git</category>
-<guid isPermaLink="false">mxpgit082325a</guid>
-<pubDate>Sat, 23 Aug 2025 00:10:00 GMT</pubDate>
-</item>
-</channel>
+    <channel>
+        <title>MxP Master RSS</title>
+        <link>https://github.com/mindorzxperfect/MxP-RSS</link>
+        <description>Master RSS List</description>
+        <lastBuildDate>Sat, 23 Aug 2025 00:10:00 GMT</lastBuildDate>
+
+        <item>
+            <guid isPermaLink="false">mxpgit082325a</guid>
+            <pubDate>Sat, 23 Aug 2025 00:10:00 GMT</pubDate>
+            <title>MxP mRSS Implemented</title>
+            <link>https://github.com/mindorzxperfect/MxP-RSS</link>
+            <description>
+                The MxP mRSS (master RSS) file is being implemented. Any updates to the other RSS feeds (or their creation from now on) will be briefly announced here.
+            </description>
+            <category>MxP Git</category>
+        </item>
+    </channel>
 </rss>
