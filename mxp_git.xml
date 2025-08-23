@@ -1,0 +1,22 @@
+<rss version="2.0">
+<channel>
+<title>MxP Master RSS</title>
+<link>https://github.com/mindorzxperfect/MxP-RSS</link>
+<description>Master RSS List</description>
+<language>en-us</language>
+<webMaster>aspdestos@proton.me</webMaster>
+<lastBuildDate>Sat, 23 Aug 2025 00:10:00 GMT</lastBuildDate>
+<category>aggregator</category>
+<item>
+<title>MxP mRSS Implemented</title>
+<link>https://github.com/mindorzxperfect/MxP-RSS</link>
+<description>
+The MxP mRSS (master RSS) file is being implemented. Any updates to the other RSS feeds (or their creation from now on) will be briefly announced here.
+</description>
+<author>MxP</author>
+<category>MxP Git</category>
+<guid isPermaLink="false">mxp_git082325a</guid>
+<pubDate>Sat, 23 Aug 2025 00:10:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
