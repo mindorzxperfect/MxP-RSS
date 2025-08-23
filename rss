@@ -1,26 +1,18 @@
 <rss version="2.0">
 <channel>
-<title>MXP Neo</title>
-<link>https://mindorzxperfect.neocities.org/</link>
-<description>MindorZxPerfect on Neocities</description>
+<title>MindorZxPerfect</title>
+<link>https://github.com/mindorzxperfect/MxP-RSS</link>
+<description>Various MxP RSS Feeds</description>
 <lastBuildDate>Tue, 19 Aug 2025 14:40:00 GMT</lastBuildDate>
 <item>
-<guid isPermaLink="false">MXP07192025</guid>
-<pubDate>Tue, 19 Aug 2025 14:40:00 GMT</pubDate>
-<title>MxP Webgarden</title>
+<guid isPermaLink="false">MXPRSS08222025</guid>
+<pubDate>Fri, 22 Aug 2025 21:30:00 GMT</pubDate>
+<title>MxP RSS Feed Masterlist</title>
 <link>
-https://mindorzxperfect.neocities.org/webgarden/webgarden.html
+https://raw.githubusercontent.com/mindorzxperfect/MxP-RSS/refs/heads/main/rss
 </link>
-<description> Webgarden page is up and running. </description>
-<category>update</category>
-</item>
-<item>
-<guid isPermaLink="false">MXP07172025</guid>
-<pubDate>Thu, 17 Aug 2025 04:43:03 GMT</pubDate>
-<title>MxP RSS</title>
-<link>https://mindorzxperfect.neocities.org/</link>
-<description> Just an rss test. </description>
-<category>rss test</category>
+<description>MxP RSS Masterlist is up for all testing.</description>
+<category>test</category>
 </item>
 </channel>
 </rss>
