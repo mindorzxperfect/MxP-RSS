@@ -3,7 +3,17 @@
 <title>MindorZxPerfect</title>
 <link>https://github.com/mindorzxperfect/MxP-RSS</link>
 <description>Various MxP RSS Feeds</description>
-<lastBuildDate>Tue, 19 Aug 2025 14:40:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 22 Aug 2025 21:30:00 GMT</lastBuildDate>
+<item>
+<guid isPermaLink="false">MXPRSS08222025a</guid>
+<pubDate>Fri, 22 Aug 2025 21:40:00 GMT</pubDate>
+<title>MxP RSS Feed Masterlist</title>
+<link>
+https://raw.githubusercontent.com/mindorzxperfect/MxP-RSS/refs/heads/main/rss
+</link>
+<description>MxP RSS Ping Test.</description>
+<category>test</category>
+</item>
 <item>
 <guid isPermaLink="false">MXPRSS08222025</guid>
 <pubDate>Fri, 22 Aug 2025 21:30:00 GMT</pubDate>
