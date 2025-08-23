@@ -1,4 +1,20 @@
 # MxP-RSS
-My various RSS feeds for several projects.
-Also testing various functions as I go.
-Only occassionally drunkenly doing so.
+The master repo for all my RSS feeds.<br>
+<hr>
+
+MindorZxPerfect<br>
+<blockquote>
+    Neocities : mxp_neo.xml (git hosted)<br>
+    Ao3 : mxp_ao3.xml (git hosted)<br>
+    FFN : mxp_ffn.xml (git hosted)
+    <br><br>
+    Dreamwidth : xxxxxxx (site hosted)<br>
+    Tumblr : xxxxxxx (site hosted)<br>
+</blockquote>
+
+<hr>
+
+ForgottenForest<br>
+<blockquote>
+    Nekoweb : ff_neko.xml (git hosted)
+</blockquote>
