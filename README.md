@@ -5,7 +5,7 @@
 <h3>MindorZxPerfect</h3>
 <blockquote>
     Neocities : mxp_neo.xml (git hosted)<br>
-    Ao3 + FFN : mxp_fic.xml (git hosted)
+    AO3 + FFN + SWA : mxp_fic.xml (git hosted)
     <br><br>
     Dreamwidth : xxxxxxx (site hosted)<br>
     Tumblr : xxxxxxx (site hosted)<br>
