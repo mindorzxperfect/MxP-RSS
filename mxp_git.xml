@@ -3,7 +3,18 @@
         <title>MxP Master RSS</title>
         <link>https://github.com/mindorzxperfect/MxP-RSS</link>
         <description>Master RSS List</description>
-        <lastBuildDate>Sun, 24 Aug 2025 01:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 21:00:00 GMT</lastBuildDate>
+
+        <item>
+            <guid isPermaLink="false">mxpgit082725a</guid>
+            <pubDate>Wed, 27 Aug 2025 21:00:00 GMT</pubDate>
+            <title>MxP Fic Update</title>
+            <link>https://github.com/mindorzxperfect/MxP-RSS/blob/main/mxp_fic.xml</link>
+            <description>
+                MxP Fic feed has been updated.
+            </description>
+            <category>MxP Fic</category>
+        </item>
 
         <item>
             <guid isPermaLink="false">mxpgit082425a</guid>
